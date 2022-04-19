@@ -1,0 +1,5 @@
+.barranav {
+    background: url(./assets/img/carousel1.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }

@@ -1,3 +1,3 @@
 $("#carouselExampleControls").carousel({
-    interval: 1000
+    interval: 4000
   })

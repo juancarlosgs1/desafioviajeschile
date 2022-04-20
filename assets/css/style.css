@@ -22,3 +22,10 @@ body{
   .icon{
       width: 30px;
   }
+
+  .foot-text{
+      text-align: left;
+  }
+.formulario{
+    height: 200px;
+}

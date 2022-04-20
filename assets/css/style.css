@@ -1,5 +1,24 @@
-.barranav {
-    background: url(./assets/img/carousel1.jpg) no-repeat center;
-    background-size: cover;
-    min-height: 100vh;
+body{
+    color: #ffff;
+    font-family: 'Cabin', sans-serif;
+    background-color: black;
+}
+
+
+  .img-avion{
+      max-width: 3%;
+  }
+
+  .card-one{
+      background-color: #16a2b7;
+  }
+  
+  .card-fondo{
+      padding: 0;
+      margin: 0;
+      text-align: left;
+  }
+
+  .icon{
+      width: 30px;
   }

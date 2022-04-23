@@ -26,14 +26,15 @@ body{
   .foot-text{
       text-align: left;
   }
+  /* esta clase le da el alto al formulario de contacto */
 .formulario{
     height: 200px;
 }
-
+/* aca se descativa el scroll que viene por default, con el fin de darle el propio a traves de jquery */
 html{
     scroll-behavior: auto !important;
 }
-
+/* esta clase le da el color a los iconos de RRSS fondo */
 .font-aw{
     color: #16a2b7;
     background-color:white;
